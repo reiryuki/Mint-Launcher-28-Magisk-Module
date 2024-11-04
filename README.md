@@ -9,6 +9,7 @@
 
 ## Sources
 - https://apkmirror.com com.mi.android.go.globallauncher by Xiaomi Inc.
+- libmagiskpolicy.so: Kitsune Mask R6687BB53
 
 ## Screenshots
 - https://t.me/ryukimodsscreenshots/2
