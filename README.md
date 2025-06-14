@@ -26,15 +26,15 @@
 - Change your default launcher to this Mint Launcher via Settings app (or you can copy the content of default.sh and paste it to Termux app. Type su and grant root first!)
 
 ## Optionals
-- https://t.me/androidryukimodsdiscussions/54012
+- https://t.me/ryukinotes/42
 - Global: https://t.me/ryukinotes/35
 
 ## Troubleshootings
-- https://t.me/androidryukimodsdiscussions/64467
+- https://t.me/ryukinotes/19
 - Global: https://t.me/ryukinotes/34
 
 ## Support & Bug Report
-- https://t.me/androidryukimodsdiscussions/2618
+- https://t.me/ryukinotes/54
 - If you don't do above, issues will be closed immediately
 
 ## Credits and Contributors
