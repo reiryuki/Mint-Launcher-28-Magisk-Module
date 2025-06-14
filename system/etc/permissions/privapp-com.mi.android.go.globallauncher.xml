@@ -21,8 +21,5 @@
         <permission name="android.permission.MANAGE_USERS"/>
         <!-- SDK 28 and bellow -->
         <permission name="android.permission.READ_FRAME_BUFFER"/>
-        <!-- Not added yet in AndroidManifest.xml -->
-        <permission name="android.permission.SYSTEM_ALERT_WINDOW"/>
-        <permission name="android.permission.READ_DEVICE_CONFIG"/>
     </privapp-permissions>
 </permissions>
