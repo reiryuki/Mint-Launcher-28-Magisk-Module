@@ -1,7 +1,7 @@
 id=MintLauncher
 name=Mint Launcher 28
-version=v0.3
-versionCode=3
+version=v0.4
+versionCode=4
 author=Rei Ryuki the Fixer
 description=Home launcher app target SDK 28 by Xiaomi Inc. ported for any Android 5 (SDK 21) and up.
 

@@ -16,11 +16,11 @@
 
 ## Requirements
 - Android 5 (SDK 21) and up
-- Magisk or KernelSU installed
+- Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
-- Install this module https://www.pling.com/p/2218343/ via Magisk app or KernelSU app or Recovery if Magisk installed
-- If you are using KernelSU, you need to disable Unmount Modules by Default in KernelSU app settings
+- If you are using KernelSU, you need to disable Unmount Modules by Default in KernelSU app settings and install https://github.com/KernelSU-Modules-Repo/meta-overlayfs first
+- Install this module https://www.pling.com/p/2218343/ via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Reboot
 - If you are using KernelSU, you need to allow superuser list manually all package name listed in package.txt (enable show system apps) and reboot afterwards
 - Change your default launcher to this Mint Launcher via Settings app (or you can copy the content of default.sh and paste it to Termux app. Type su and grant root first!)
