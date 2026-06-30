@@ -1,4 +1,4 @@
-# Mint Launcher Magisk Module
+# Mint Launcher 28 Magisk Module
 
 ## DISCLAIMER
 - Xiaomi apps are owned by Xiaomi™.
